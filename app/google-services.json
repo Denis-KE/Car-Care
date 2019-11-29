@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185526109483",
+    "firebase_url": "https://carcare-619ed.firebaseio.com",
+    "project_id": "carcare-619ed",
+    "storage_bucket": "carcare-619ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185526109483:android:e7f212a5f07d5f6f98316e",
+        "android_client_info": {
+          "package_name": "com.deno.carcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185526109483-rsd6sn379014fsihbd1f8lfs4ah1m2em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deno.carcare",
+            "certificate_hash": "ffd74a50c17b7e5b500bb8a74281e77565909bd7"
+          }
+        },
+        {
+          "client_id": "185526109483-bblaj8kd1insh687jde59ir6p08jjrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifBiULhcYgTeBnY225_1pwCCAwWHVeCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185526109483-bblaj8kd1insh687jde59ir6p08jjrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
